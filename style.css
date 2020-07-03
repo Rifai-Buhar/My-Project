@@ -111,9 +111,9 @@ body{
     margin: auto;
     margin-top: 600px;
     display: flex;
-    align-items: centers;
+    align-items: center;
     justify-content: center;
-    position: fixed;
+    position: relative;
     bottom:0;
     width: 100%;
 }
