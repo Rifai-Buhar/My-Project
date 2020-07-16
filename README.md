@@ -1,3 +1,3 @@
-# My-project
+# my-project
 
 updated
